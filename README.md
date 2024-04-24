@@ -12,6 +12,7 @@ Click the "Save Changes" button to apply the changes.
 Delete Expense
 Hover over an expense in the list to reveal the delete button (trash icon).
 Click the delete button to remove the expense from the list.
+
 Technologies Used
 
 HTML5: Used for the structure of the web page.
